@@ -1,0 +1,26 @@
+[
+    {
+      "id": "623853b2614a95ba311fdd1",
+      "picture": "https://cdn-icons-png.flaticon.com/512/126/126210.png?w=740&t=st=1681070382~exp=1681070982~hmac=0c3d752e678ad671d1a06285ee888d1dd1318e3d099425aefd4b5e5afcbb7b63",
+      "name": "Account & Finance",
+      "jobs": "280 Jobs Available"
+    },
+    {
+      "id": "623853b2614ad5aba9651fdd1",
+      "picture": "https://as1.ftcdn.net/v2/jpg/01/16/55/08/1000_F_116550890_rCeK1rq5U22ejqmy0dR7Lcxx1KoKmWMU.jpg",
+      "name": "Creative Design",
+      "jobs": "120 Jobs Available"
+    },
+    {
+      "id": "623853b26196d5aba311fdd1",
+      "picture": "https://cdn-icons-png.flaticon.com/512/1077/1077221.png?w=740&t=st=1681070660~exp=1681071260~hmac=71020eff03556e04c8d157f14ee7f23c943b952371c7593b3da903b147ea1915",
+      "name": "Marketing & Sales",
+      "jobs": "150 Jobs Available"
+    },
+    {
+      "id": "623853b2614ad5aba36954dd1",
+      "picture": "https://cdn-icons-png.flaticon.com/512/1245/1245604.png?w=740&t=st=1681070702~exp=1681071302~hmac=5ab4cd0c778cd92aa76749ec5a3351763d67b93d54e0231df3a83b84197dcfce",
+      "name": "Engineering Job",
+      "jobs": "240 Jobs Available"
+    }
+  ]
